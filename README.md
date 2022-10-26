@@ -58,9 +58,11 @@
 <a href="https://medium.com/https://medium.com/@vanessatelles" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
 
-<br/>  
+<div align="center"> 
+<img src="https://media.giphy.com/media/PvDOdW1m7t5ZCCNuCf/giphy.gif" width="200"> 
+</div>
+
 
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
