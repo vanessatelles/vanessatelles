@@ -3,7 +3,7 @@
 ### 🌸 About Me 🌸 <img align='right' src="https://media.giphy.com/media/6rHfF5HqcnQpq/giphy.gif" width="300">
 
 
-<p><em>Data Engineer and Researcher at <a href="http://itecfurg.org/">EMBRAPII iTec 💻 </a></br>Software Engineer at <a href="https://www.beta2games.com/">Beta2Games 🎮 </a></br> MSc Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Brazilian 🇧🇷 </br> She/Her </br></br></br></em></p>
+<p><em>Software Engineer and Researcher at <a href="http://itecfurg.org/">EMBRAPII iTec 💻 </a></br>Software Engineer at <a href="https://www.beta2games.com/">Beta2Games 🎮 </a></br> MSc Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Brazilian 🇧🇷 </br> She/Her </br></br></br></em></p>
 
 
 ## 🛠️ Languages and Tools 🛠️  
