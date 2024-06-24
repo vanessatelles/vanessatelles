@@ -5,9 +5,11 @@
 
 <p><em>Software Engineer and Researcher  💻🎮 </br> MSc Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Brazilian 🇧🇷 </br> She/Her </br></br></br></em></p>
 
+<br/>  
+<br/>  
 
 ## 🛠️ Skill Set 🛠️  
-<table><tr><td valign="top" width="33%">
+
 
 ### Languages  
 <div align="center">  
@@ -21,8 +23,6 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 
 </div>
-
-</td><td valign="top" width="33%">
 
 
 ### Tools  
@@ -42,8 +42,6 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -57,12 +55,21 @@
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
+<br/>  
+</div>
+<br/>  
 <br/>  
 
+## 📝 Latest Blog Posts 📝
 
-</div>
+- [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
+- [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
+- [É diferente programar jogos?](https://www.linkedin.com/pulse/%C3%A9-diferente-programar-jogos-vanessa-telles-cu5df/?trackingId=vQmXwl7tRfeLwTyoOrcbEg%3D%3D)
+
+<br/>
+
+
+
 <div align="center"> 
 <img src="https://media.giphy.com/media/PvDOdW1m7t5ZCCNuCf/giphy.gif" width="200"> 
 </div>
