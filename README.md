@@ -63,7 +63,9 @@
 ## 📝 Latest Blog Posts 📝
 
 - [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
+- [Produtividade na Quarentena. Desenvolvendo uma dashboard para análise da dados Open Source.](https://www.linkedin.com/pulse/produtividade-na-quarentena-desenvolvendo-uma-para-da-vanessa/?trackingId=RUht740cEP59ibnx3l%2BBmQ%3D%3D)
 - [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
+- [TBT de quando decidi automatizar a melhor amiga dos engenheiros: a cafeteira](https://www.linkedin.com/pulse/tbt-de-quando-decidi-automatizar-melhor-amiga-dos-telles-da-silva/?trackingId=KxoPTKf9S9JW0RX2%2FxD%2BaA%3D%3D)
 - [É diferente programar jogos?](https://www.linkedin.com/pulse/%C3%A9-diferente-programar-jogos-vanessa-telles-cu5df/?trackingId=vQmXwl7tRfeLwTyoOrcbEg%3D%3D)
 
 <br/>
