@@ -3,7 +3,7 @@
 ### 🌸 About Me 🌸 <img align='right' src="https://media.giphy.com/media/6rHfF5HqcnQpq/giphy.gif" width="300">
 
 
-<p><em>Software Engineer and Researcher  💻🎮 </br> MSc Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Brazilian 🇧🇷 </br> She/Her </br></br></br></em></p>
+<p>Software Engineer and Researcher  💻🎮 </br> MSc Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Brazilian 🇧🇷 </br> Gaúcha 🧉</br> She/Her </br></br></br></p>
 
 <br/>  
 <br/>  
