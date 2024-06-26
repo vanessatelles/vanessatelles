@@ -56,27 +56,27 @@
 </div>
 
 <br/>  
-</div>
+
 <br/>  
 <br/>  
 
 ## 📝 Latest Blog Posts 📝
 
+### English
 - [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
+- [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)
+### Portuguese
 - [Produtividade na Quarentena. Desenvolvendo uma dashboard para análise de dados Open Source.](https://www.linkedin.com/pulse/produtividade-na-quarentena-desenvolvendo-uma-para-da-vanessa/?trackingId=RUht740cEP59ibnx3l%2BBmQ%3D%3D)
 - [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
 - [TBT de quando decidi automatizar a melhor amiga dos engenheiros: a cafeteira](https://www.linkedin.com/pulse/tbt-de-quando-decidi-automatizar-melhor-amiga-dos-telles-da-silva/?trackingId=KxoPTKf9S9JW0RX2%2FxD%2BaA%3D%3D)
-- [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)
 - [É diferente programar jogos?](https://www.linkedin.com/pulse/%C3%A9-diferente-programar-jogos-vanessa-telles-cu5df/?trackingId=vQmXwl7tRfeLwTyoOrcbEg%3D%3D)
 
 <br/>
 
 
-
 <div align="center"> 
 <img src="https://media.giphy.com/media/PvDOdW1m7t5ZCCNuCf/giphy.gif" width="200"> 
 </div>
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/tellesvanessa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -84,12 +84,10 @@
 <a href="https://dev.to/vanessatelles" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
- <a href="https://medium.com/@vanessatelles" target="_blank">
+<a href="https://medium.com/@vanessatelles" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
 </div>
 
 
-<!--
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
--->
+<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
