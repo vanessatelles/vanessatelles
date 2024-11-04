@@ -64,6 +64,7 @@
 ### English
 - [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
 - [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)
+- [Seven Years of HacktoberFest, and Counting!](https://dev.to/vanessatelles/seven-years-of-hacktoberfest-and-counting-455j)
 ### Portuguese
 - [Produtividade na Quarentena. Desenvolvendo uma dashboard para análise de dados Open Source.](https://www.linkedin.com/pulse/produtividade-na-quarentena-desenvolvendo-uma-para-da-vanessa/?trackingId=RUht740cEP59ibnx3l%2BBmQ%3D%3D)
 - [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
