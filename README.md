@@ -78,7 +78,7 @@
 <img src="https://media.giphy.com/media/PvDOdW1m7t5ZCCNuCf/giphy.gif" width="200"> 
 </div>
 <div align="center">  
-<a href="https://www.credly.com/users/telles-vanessa/" target="_blank">
+<a href="https://www.credly.com/users/vanessatelles" target="_blank">
 <img src=https://img.shields.io/badge/credly-ff6a00?&style=for-the-badge&logo=credlyn&logoColor=white alt=credly style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.holopin.io/@vanessat" target="_blank">
