@@ -61,11 +61,12 @@
 
 ## 📝 Latest Blog Posts 📝
 
-### English
-- [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)
-- [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)
+### English 
+- [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)  <img align='right' src="https://github.com/user-attachments/assets/9566d2c1-4b76-4b88-ae39-1c4ff96792a1" width="400">
+- [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)  
 - [Seven Years of HacktoberFest, and Counting!](https://dev.to/vanessatelles/seven-years-of-hacktoberfest-and-counting-455j)
-### Portuguese
+
+### Portuguese 
 - [Produtividade na Quarentena. Desenvolvendo uma dashboard para análise de dados Open Source.](https://www.linkedin.com/pulse/produtividade-na-quarentena-desenvolvendo-uma-para-da-vanessa/?trackingId=RUht740cEP59ibnx3l%2BBmQ%3D%3D)
 - [Teoria de Grafos em Everything Everywhere All at Once](https://dev.to/vanessatelles/teoria-de-grafos-em-everything-everywhere-all-at-once-5hhp)
 - [TBT de quando decidi automatizar a melhor amiga dos engenheiros: a cafeteira](https://www.linkedin.com/pulse/tbt-de-quando-decidi-automatizar-melhor-amiga-dos-telles-da-silva/?trackingId=KxoPTKf9S9JW0RX2%2FxD%2BaA%3D%3D)
