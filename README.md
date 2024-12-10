@@ -61,7 +61,7 @@
 
 ## 📝 Latest Blog Posts 📝
 
-&nbsp;&nbsp;<img align='right' src="https://github.com/user-attachments/assets/9566d2c1-4b76-4b88-ae39-1c4ff96792a1" width="400">
+<img align='right' src="https://github.com/user-attachments/assets/9566d2c1-4b76-4b88-ae39-1c4ff96792a1" width="400">
 
 ### English 
 
