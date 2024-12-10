@@ -23,6 +23,7 @@
 
 </div>
 
+---
 
 ### Tools  
 <div align="center">  
@@ -41,7 +42,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" /></a>  
 </div>
 
-
+---
 
 ### DevOps  
 <div align="center">  
