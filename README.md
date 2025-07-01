@@ -69,6 +69,7 @@
 - [Working in the game industry - The only girl in the team](https://dev.to/vanessatelles/working-in-the-game-industry-the-only-girl-in-the-team-1p6k)  
 - [Processes and challenges of a Brazilian Game Development Studio - Part 4 #girlswhocode](https://www.linkedin.com/pulse/beta-2-game-dev-saga-processes-challenges-brazilian-development-1f/?trackingId=lFDIYYBqncT5ErrXVAqe5A%3D%3D)  
 - [Seven Years of HacktoberFest, and Counting!](https://dev.to/vanessatelles/seven-years-of-hacktoberfest-and-counting-455j)
+- [A Form Understanding Approach to Printed and Structured Engineering Documentation](https://ieeexplore.ieee.org/document/9643108)
 
 ### Portuguese 
 
