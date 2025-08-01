@@ -3,7 +3,7 @@
 ### 🌸 About Me 🌸 <img align='right' src="https://media.giphy.com/media/6rHfF5HqcnQpq/giphy.gif" width="300">
 
 
-<p>Software Engineer and Researcher  💻 </br> M.E Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Former Game Dev 🎮 </br> Currently learning Go 📚 </br> Brazilian 🇧🇷 </br> Gaúcha 🧉</br> She/Her </br></br></p>
+<p>Software Engineer and AI Researcher  💻 </br> M.E Computer Engineering  👨‍💻 </br> Automation Engineer 🤖 </br> Former Game Dev 🎮 </br> Currently learning Go 📚 </br> Brazilian 🇧🇷 </br> Gaúcha 🧉</br> She/Her </br></br></p>
 
 <br/>  
 <br/>  
