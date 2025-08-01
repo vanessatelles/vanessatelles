@@ -88,12 +88,12 @@
 <a href="https://www.credly.com/users/vanessatelles" target="_blank">
 <img src=https://img.shields.io/badge/credly-ff6a00?&style=for-the-badge&logo=credlyn&logoColor=white alt=credly style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.holopin.io/@vanessat" target="_blank">
-<img src=https://img.shields.io/badge/holopin-86edab?&style=for-the-badge&logo=holopin&logoColor=white alt=holopin style="margin-bottom: 5px;" />
-</a>
 <a href="https://orcid.org/0000-0002-6937-7821" target="_blank">
 <img src=https://img.shields.io/badge/orcid-a6ce39?&style=for-the-badge&logo=orcid&logoColor=white alt=orcid style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.holopin.io/@vanessat" target="_blank">
+<img src=https://img.shields.io/badge/holopin-86edab?&style=for-the-badge&logo=holopin&logoColor=white alt=holopin style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/tellesvanessa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
